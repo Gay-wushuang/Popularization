@@ -1,0 +1,15 @@
+{
+  "topic_id": "DUB-PILOT-20261125-01",
+  "version": "v0.1",
+  "created_date": "2026-11-25",
+  "status": "AI整理，待人工复核；不是独立历史事实数据库",
+  "unit": "一份来源中关于一个沿革事件的记述，不按网页数计算独立事件或独立证据数",
+  "excluded_sources": [{"id":"SRC-20261125-003","reason":"本地原始快照请求418，待补核验，不进入分析"}],
+  "observations": [
+    {"id":"OBS-01","source_id":"SRC-20261125-001","claim":"CLM-20261125-001","location":"正文以‘上译厂成立于1957年4月1日’开头的段落","reported_event":"前身翻译片组建立","reported_year":1949,"reported_date":"1949-11-16","publication_date":"2020-12-04","evidence_level":"事后报道记述；未见当年批文"},
+    {"id":"OBS-02","source_id":"SRC-20261125-001","claim":"CLM-20261125-002","location":"同一沿革段落","reported_event":"上海电影译制厂成立","reported_year":1957,"reported_date":"1957-04-01","publication_date":"2020-12-04","evidence_level":"事后报道记述；精确日有反向记载"},
+    {"id":"OBS-03","source_id":"SRC-20261125-002","claim":"CLM-20261125-001","location":"链接一：上海电影译制片厂诞生记，首段","reported_event":"前身翻译片组已有活动","reported_year":1949,"reported_date":null,"publication_date":"2019-09-08","evidence_level":"政务账号回顾；不能用于核实前身精确成立日"},
+    {"id":"OBS-04","source_id":"SRC-20261125-002","claim":"CLM-20261125-002","location":"链接一第二段，查找1957年4月7日","reported_event":"组脱离上影，独立为厂","reported_year":1957,"reported_date":"1957-04-07","publication_date":"2019-09-08","evidence_level":"政务账号回顾；与1日说冲突，保留"},
+    {"id":"OBS-05","source_id":"SRC-20261125-004","claim":"CLM-20261125-002","location":"署名和来源之后的首个正文段","reported_event":"建厂及此前已有组的工作","reported_year":1957,"reported_date":"1957-04-01","publication_date":"2017-04-01","evidence_level":"周年原发报道；不能由此前八年倒推前身精确日"}
+  ]
+}

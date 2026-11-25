@@ -1,0 +1,41 @@
+[
+  {
+    "id": "SRC-20261125-001",
+    "url": "https://export.shobserver.com/toutiao/html/318108.html",
+    "accessed": "2026-11-25T22:41:14.9456684+08:00",
+    "status": 200,
+    "finalUrl": "https://export.shobserver.com/toutiao/html/318108.html",
+    "file": "20261125_SRC-20261125-001.html",
+    "bytes": 8973,
+    "sha256": "398BD4EA30AAFDEC117069CCDCFF1274EE990E2FAC4EA155B9059612F83B15B6",
+    "note": "HTML response saved; scripts and embedded images not downloaded"
+  },
+  {
+    "id": "SRC-20261125-002",
+    "url": "https://m.thepaper.cn/baijiahao_4384766",
+    "accessed": "2026-11-25T22:41:15.2868818+08:00",
+    "status": 200,
+    "finalUrl": "https://m.thepaper.cn/baijiahao_4384766",
+    "file": "20261125_SRC-20261125-002.html",
+    "bytes": 13133,
+    "sha256": "C74DD3841ECEA06A21B59B63D04A5C6A5EB82E6EB0DFAFD45999E57B6722FF12",
+    "note": "HTML response saved; scripts and embedded images not downloaded"
+  },
+  {
+    "id": "SRC-20261125-003",
+    "url": "https://www.shobserver.cn/wx/detail.do?id=93555",
+    "accessed": "2026-11-25T22:41:15.3957505+08:00",
+    "error": "Response status code does not indicate success: 418 ()."
+  },
+  {
+    "id": "SRC-20261125-004",
+    "url": "https://www.thepaper.cn/newsDetail_forward_1652105",
+    "accessed": "2026-11-25T22:41:16.1660166+08:00",
+    "status": 200,
+    "finalUrl": "https://www.thepaper.cn/newsDetail_forward_1652105",
+    "file": "20261125_SRC-20261125-004.html",
+    "bytes": 54511,
+    "sha256": "B413F37F4A2EDD400C029B84D4A4B3AFC3B7C45670CE76E3140BB4DEB009535B",
+    "note": "HTML response saved; scripts and embedded images not downloaded"
+  }
+]
